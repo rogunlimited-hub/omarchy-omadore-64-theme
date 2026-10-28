@@ -1,0 +1,5 @@
+[bar]
+background = "#30266C"
+background-alpha = 1.0
+text = "#AE9BF4"
+active = "#F0EBFF"
